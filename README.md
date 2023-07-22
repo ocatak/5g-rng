@@ -3,3 +3,8 @@ Random number generation (RNG) is a crucial element in security protocols, and i
 
 ## Presentation YouTube Video
 [![IEEE COINS 2023 Presentation](https://img.youtube.com/vi/uERog8_RMm0/0.jpg)](https://www.youtube.com/watch?v=uERog8_RMm0)
+
+
+
+## Preprint
+[https://arxiv.org/abs/2304.09591](https://arxiv.org/abs/2304.09591)
